@@ -2,7 +2,7 @@
 layout: post
 title:  "Cegıd ft. Joaquin - Depresyon"
 date:   2024-03-05 11:00 +3
-file: https://raw.githubusercontent.com/kekn9ne/podcast/main/audio/cegid-depresyon.mp3
+file: https://raw.githubusercontent.com/kekn9ne/spotify-podcast/main/audio/cegid-depresyon.mp3
 categories: atom update
 description: "IG: @aytgdmr"
 duration: "00:00:50"
