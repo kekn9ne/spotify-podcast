@@ -1,0 +1,22 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: "Spotify'da Olmayanlar"
+email: "aytgdmr2@yandex.com"
+author: "Aytuğ"
+description: > # this means to ignore newlines until "baseurl:"
+  Spotify'da olmayan şarkılar burada. IG: @aytgdmr
+baseurl: "/spotify-podcast"
+url: "https://kekn9ne.github.io/spotify-podcast"
+twitter_username: aytgdmr
+github_username:  kekn9ne
+permalink: /:title.html
+excerpt_separator: <!--more-->
+
+# Build settings
+markdown: kramdown
